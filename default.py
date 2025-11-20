@@ -2,7 +2,7 @@ import sys
 if len(sys.argv)==3:
   script_name=sys.argv[0]
   name=sys.argv[1]
-  rollNo=argv[2]
+  rollNo=sys.argv[2]
   print(f"\n\nUser details provided!!!")
 
 else:
